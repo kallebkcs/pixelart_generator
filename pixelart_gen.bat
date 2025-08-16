@@ -1,0 +1,1 @@
+python pixelart_gen.py %1
