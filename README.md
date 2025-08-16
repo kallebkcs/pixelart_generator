@@ -33,6 +33,8 @@ Follow the syntax `w,h` and press Enter
 4) Choose between the 4 available options (1 to 4) and press Enter
 5) And it's done! Your transformed image is created on the same folder and format, and "_pixelart" added to the name.
 
+https://github.com/user-attachments/assets/b1be87d5-4516-4bcd-8b22-1bca48455ef2
+
 ---
 
 Developed by **Khare**
