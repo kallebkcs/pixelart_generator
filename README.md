@@ -45,7 +45,7 @@ Transforma qualquer imagem em uma versão menor e, opcionalmente, substitui suas
 
 ### Modos de cores disponíveis:
 - **Todas as cores** → apenas redimensiona a imagem  
-- **Cores livres**  
+- **Cores gratuitas**  
 - **Todas as cores do WPlace**  
 - **Preto e Branco**  
 
