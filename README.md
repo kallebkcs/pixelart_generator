@@ -29,9 +29,9 @@ pip install pillow
 3) A cmd will open and will ask you the pixel art size.
    - You can choose a specific height or wight, leaving the other space with a 'x', and the program will keep the proportion.
    - You can choose both height and wight too if you are not afraid about proportion.
-   Follow the syntax `w,h` and press Enter
-5) Choose between the 4 available options (1 to 4) and press Enter
-6) And it's done! Your transformed image is created on the same folder and format, and "_pixelart" added to the name.
+Follow the syntax `w,h` and press Enter
+4) Choose between the 4 available options (1 to 4) and press Enter
+5) And it's done! Your transformed image is created on the same folder and format, and "_pixelart" added to the name.
 
 ---
 
@@ -68,9 +68,9 @@ pip install pillow
 3) Uma janela do cmd será aberta pedindo o tamanho da pixel art.  
    - Você pode escolher uma **largura** ou **altura** específica, deixando a outra como `x` para manter a proporção.  
    - Também é possível definir **largura e altura** ao mesmo tempo, se não se importar com distorção.  
-   Siga a sintaxe `w,h` e pressione Enter
-4. Escolha uma das 4 opções de cores (1–4) e pressione Enter.  
-5. Pronto! Sua imagem transformada será criada na mesma pasta, com o mesmo formato e com `_pixelart` adicionado ao nome.  
+Siga a sintaxe `w,h` e pressione Enter
+4) Escolha uma das 4 opções de cores (1–4) e pressione Enter.  
+5) Pronto! Sua imagem transformada será criada na mesma pasta, com o mesmo formato e com `_pixelart` adicionado ao nome.  
 
 ---
 
