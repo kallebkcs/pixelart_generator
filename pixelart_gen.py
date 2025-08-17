@@ -140,7 +140,7 @@ def replace_color(rgb, tipo):
                 
 def main(name):
     img = Image.open(name)
-    print("PixelArt Genererator v0.1\n")
+    print("PixelArt Genererator v1.0.0\n")
     print("Qual o tamanho você deseja para sua pixelart?")
     print("Use numeros naturais separados por vírgula para largura e altura, use x em um deles para manter proporção segundo o outro (recomendável)")
     print("Ex: x,30 gera uma pixelart com 30 de altura e largura proporcional\n")
