@@ -28,8 +28,6 @@ def tratador(tam):
         return [int(tam[0]), int(tam[1])]
 
 def seleciona_tipo():
-    '''posteriormente pode ter interfacezinha pro usuario
-    selecionar oq vai e oq n vai por ex'''
     ###################
     # LISTAS DE CORES #
     ###################
@@ -118,7 +116,6 @@ def seleciona_tipo():
 
     while(1):
         tipo = input("\nOpção: ")
-
         if tipo == '1':
             return []
         elif tipo == '2':
@@ -156,7 +153,6 @@ def main(name):
             break
     if 0 in tam:
         w,h = img.size
-        # refazer essa lógica aqui
         if tam[0] == 0:
             fator = tam[1]/h
             tam[0] = round(w*fator)
@@ -182,11 +178,3 @@ if __name__ == "__main__":
         main(input("Qual o nome da imagem? "))
     else:
         main(sys.argv[1])
-
-
-
-###################
-# Grupos de cores #
-###################
-# Para auxiliar escolhas
-
