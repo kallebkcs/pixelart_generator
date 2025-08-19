@@ -1,4 +1,4 @@
-# PixelArt Generator v1.0.0
+# PixelArt Generator v1.0.1
 
 ## English  
 
