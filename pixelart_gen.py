@@ -164,10 +164,13 @@ def main(name):
     
     tipo = seleciona_tipo()
     
+    if name[-4:] == ".png": 
+        resized = resized.convert("RGB")
+
     if tipo:
         pixels = resized.load()
         for y in range(resized.height):
-            for x in range(resized.width): 
+            for x in range(resized.width):
                 pixels[x, y] = replace_color(pixels[x, y], tipo)
 
     ind = name.find('.')
